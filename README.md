@@ -9,6 +9,8 @@ Hi there! 👋 I'm a passionate developer with **a strong focus on building mode
 
 When I'm not coding, you’ll find me exploring new tech, learning fresh concepts, or debugging faster with a coffee in hand ☕.  
 
+💡 Beyond web development, I have a strong passion for launching innovative startups and designing high-performing e-commerce websites. My goal is to merge creativity with software engineering to build platforms that revolutionize businesses and enhance user experiences, making digital interactions more seamless and impactful.
+
 ---  
 
 ## 💻 Tech Stack  
