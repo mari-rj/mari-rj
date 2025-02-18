@@ -1,19 +1,26 @@
-# 🌟 Hey, I'm Maryam!  
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-### 👩‍💻 Fullstack Developer | 1990 | Code Enthusiast  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maryam+Rajabi!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Iran , living in Germany 🇩🇪 🇮🇷</h3>
+
+<br/>
+
+
+
 
 ## 🔥 About Me  
-Hi there! 👋 I'm a passionate developer with **a strong focus on building modern, responsive, and dynamic web applications**. Writing clean, maintainable, and scalable code is what I love! Programming isn't just my job—it's my **passion**! 🚀  
+**. Writing clean, maintainable, and scalable code is what I love! Programming isn't just my job—it's my **passion**! 🚀  
 
-🇩🇪 **Languages:** I speak **German, Persian, and English** fluently. Living in Germany since 2019, I have gained extensive experience in direct customer interaction and consulting in various fields.  
+🇩🇪 **Languages:** I speak **German, English, and Persian ** I have gained extensive experience in direct customer interaction and consulting in various fields.  
 
 When I'm not coding, you’ll find me exploring new tech, learning fresh concepts, or debugging faster with a coffee in hand ☕.  
 
 💡 Beyond web development, I have a strong passion for launching innovative startups and designing high-performing e-commerce websites. My goal is to merge creativity with software engineering to build platforms that revolutionize businesses and enhance user experiences, making digital interactions more seamless and impactful.
 
 ---  
-
-## 💻 Tech Stack  
 
 ### 🖥 Operating Systems  
 <p>
@@ -22,62 +29,42 @@ When I'm not coding, you’ll find me exploring new tech, learning fresh concept
    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-### 🎨 Frontend  
-<p>
-   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
 
 
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,bootstrap,sass,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nextjs,linux" />
+     <img src="https://skillicons.dev/icons?i=photoshop,illustrator,xd,figma,framer" /><br>
+</div>
 
-### ⚙️ Backend  
-<p>
-   <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-</p>
+<br/>
 
-### 🗄 Database  
-<p>
-   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+<div align="center">
+    <a href="https://www.credly.com/badges/763d5d2a-4681-4890-91f6-96b979fe71da/public_url">
+        <img src="https://github.com/kalagar/kalagar/assets/6311592/f44239a7-223f-4a6b-b0e3-b3edcadf3aaa" alt="devops-essentials 2" />
+    </a>
+    <a href="https://www.credly.com/badges/8a944b32-a2d4-4598-8f99-61bda17769ee/public_url">
+        <img src="https://github.com/kalagar/kalagar/assets/6311592/6d5c949f-9170-4e78-97b3-c685191eaba5" alt="introduction-to-cloud-computing" />
+    </a>
+    <a href="https://www.credly.com/badges/0dda88f9-4e48-40f0-88a9-80c9b49bed0c/public_url">
+        <img src="https://github.com/kalagar/kalagar/assets/6311592/817a79c5-c763-4455-937c-2e9b7d63d08d" alt="linux" />
+    </a>
+</div>
+<hr/>
 
-### 🛠 Tools & Platforms  
-<p>
-   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-   <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-   <img alt="Cloudinary" src="https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
-</p>
 
-### 📋 Development & Management Methodologies  
-- Agile  
-- Scrum  
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
----  
-
-## 📂 Open Source Projects  
-
-- 🛠 **Real-time Chat App** – Built with **Socket.io, Node.js, MongoDB, React, and JavaScript**.  
-- 🚀 ** ** – Clean, responsive design with **TailwindCSS & ShadCN UI**.  
-- 🌐 ** ** – Fullstack MERN project with **React, JavaScript, and TailwindCSS**.  
-- 🎥 **Hyper Movies** – Movie project made with **React & TailwindCSS**.  
-- 🎮 ** ** –  **JavaScript, HTML, and CSS**.  
-- 🎭 **Face-Off** – UI/UX project using **HTML and CSS**.  
-
----  
-
-## 🌱 What I'm Learning  
-
-- 📌 Advanced **TypeScript**  
-- ⚡ **Serverless Architectures**  
-- 🏗 **State Management with Zustand**  
-
----  
+<hr/>
 
 ## 📌 Fun Facts  
 - 🌍 I love how technology connects the world in real-time.  
