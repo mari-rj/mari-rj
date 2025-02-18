@@ -32,6 +32,9 @@ When I'm not coding, you’ll find me exploring new tech, learning fresh concept
    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+
+devops-essentials 2 introduction-to-cloud-computing linux
+
 ### ⚙️ Backend  
 <p>
    <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
