@@ -33,7 +33,7 @@ When I'm not coding, you’ll find me exploring new tech, learning fresh concept
 </p>
 
 
-devops-essentials 2 introduction-to-cloud-computing linux
+
 
 ### ⚙️ Backend  
 <p>
