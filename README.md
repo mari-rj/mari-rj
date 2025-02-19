@@ -2,13 +2,13 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maryam+Rajabi!;" />
+
+</h1>
+
+<h3 align="center">A passionate software developer from Iran , living in Germany 🇩🇪 🇮🇷  </h3>
     <div align="center">
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-</h1>
-
-<h3 align="center">A passionate software developer from Iran , living in Germany 🇩🇪 🇮🇷</h3>
-
 
 
 ###
@@ -16,7 +16,7 @@
 <br/>
 
 
-[![GIF](https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif)](https://giphy.com/gifs/ADD4w6XgqLBJohQdBK)
+
 
 
 
@@ -57,6 +57,9 @@
         <img src="https://github.com/kalagar/kalagar/assets/6311592/817a79c5-c763-4455-937c-2e9b7d63d08d" alt="linux" />
     </a>
 </div>
+
+[![GIF](https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif)](https://giphy.com/gifs/ADD4w6XgqLBJohQdBK)
+
 <hr/>
 
 
