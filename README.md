@@ -2,25 +2,29 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maryam+Rajabi!;" />
+    <div align="center">
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 </h1>
 
 <h3 align="center">A passionate software developer from Iran , living in Germany 🇩🇪 🇮🇷</h3>
 
+
+
+###
+
 <br/>
+
+
+[![GIF](https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif)](https://giphy.com/gifs/ADD4w6XgqLBJohQdBK)
+
+
 
 
 
 
 ## 🔥 About Me  
-**. Writing clean, maintainable, and scalable code is what I love! Programming isn't just my job—it's my **passion**! 🚀  
-
-🇩🇪 **Languages:** I speak **German, English, and Persian ** I have gained extensive experience in direct customer interaction and consulting in various fields.  
-
-When I'm not coding, you’ll find me exploring new tech, learning fresh concepts, or debugging faster with a coffee in hand ☕.  
-
-💡 Beyond web development, I have a strong passion for launching innovative startups and designing high-performing e-commerce websites. My goal is to merge creativity with software engineering to build platforms that revolutionize businesses and enhance user experiences, making digital interactions more seamless and impactful.
-
----  
+  
 
 ### 🖥 Operating Systems  
 <p>
@@ -58,20 +62,23 @@ When I'm not coding, you’ll find me exploring new tech, learning fresh concept
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
-</div>
 
-<hr/>
-
-## 📌 Fun Facts  
-- 🌍 I love how technology connects the world in real-time.  
-- 🚀 My dream? Building a platform that simplifies life for millions.  
-- ☕ Debugging is 10x faster with coffee in hand!  
-
----  
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+<br>
 
 ## 📫 Where to Find Me  
 - **GitHub**: [Maryam]([https://github.com/](https://github.com/mari-rj))  
@@ -81,6 +88,7 @@ When I'm not coding, you’ll find me exploring new tech, learning fresh concept
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Cool GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXE0ang0cWc2b3A5a3cwbzBpYWllNDBxbXRzenNvdW5ycTZ0YTJuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif)](https://giphy.com/gifs/usXZmmgP9Z7kf39fnq)
 
 <!---
 mari-rj/mari-rj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
