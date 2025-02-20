@@ -1,39 +1,28 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maryam+Rajabi!;" />
 
 </h1>
 
-<h3 align="center">A passionate software developer from Iran , living in Germany 🇩🇪 🇮🇷  </h3>
+<h3 align="center">👩🏼‍💻 A passionate software developer from Iran , living in Germany 🇩🇪 🇮🇷 ! </h3>
     <div align="center">
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-
-###
-
 <br/>
 
-
-
-
-
-
-
-
-
-## 🔥 About Me  
-  
-
-### 🖥 Operating Systems  
-<p>
+<h2 align="center">🔥 About Me  🔥 </h2> 
+  <h5 align="center">🍀 Constantlz learning and amproving my skills   </h5>
+  <h5 align="center">👩🏼‍💻 completed curses in <b> Programming </b>  and <b>  Digital Marketing </b>  </h5>
+  <h5 align="center">👩🏼‍🎓 Graduate in <b>Graphic Design</b>🎨 </h5>
+  <h5 align="center">🏹 Passionate about <b>web development and online projects</b> </h5>
+<h2 align= "center">🖥 Operating Systems 🖥</h2> 
+<br/>
+<div align="center">
    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
    <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
-
+</div>
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -57,9 +46,11 @@
         <img src="https://github.com/kalagar/kalagar/assets/6311592/817a79c5-c763-4455-937c-2e9b7d63d08d" alt="linux" />
     </a>
 </div>
-
-[![GIF](https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif)](https://giphy.com/gifs/ADD4w6XgqLBJohQdBK)
-
+<div align="center">
+  
+   <img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" width="390">
+</span>
+</div>
 <hr/>
 
 
@@ -83,17 +74,20 @@
 </picture>
 <br>
 
-## 📫 Where to Find Me  
-- **GitHub**: [Maryam]([https://github.com/](https://github.com/mari-rj))  
-- **LinkedIn**: [Maryam]  
+<h2 align="center">:mailbox: Where to Find Me :mailbox:</h2>
+<p align="center">
+  <a href="https://github.com/mari-rj">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+</p>
+ 
+<div align="center">
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXE0ang0cWc2b3A5a3cwbzBpYWllNDBxbXRzenNvdW5ycTZ0YTJuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="390">
+</div>
 
----  
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Cool GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXE0ang0cWc2b3A5a3cwbzBpYWllNDBxbXRzenNvdW5ycTZ0YTJuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif)](https://giphy.com/gifs/usXZmmgP9Z7kf39fnq)
-
-<!---
-mari-rj/mari-rj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/👊  ☕️May%20your%20code%20be%20bug--free%20and%20your%20coffee%20stay%20strong☕ 👊-ffb6c1?style=for-the-badge" alt="Pink Text">
+  </a>
+</p>
