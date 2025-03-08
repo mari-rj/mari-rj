@@ -46,6 +46,10 @@
         <img src="https://github.com/kalagar/kalagar/assets/6311592/817a79c5-c763-4455-937c-2e9b7d63d08d" alt="linux" />
     </a>
 </div>
+
+
+
+
 <div align="center">
   
    <img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" width="390">
